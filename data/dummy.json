@@ -1,0 +1,12 @@
+  {
+    "id": 4,
+    "name": "HP Pavilion 15",
+    "brand": "HP",
+    "category": "Laptops",
+    "price": 55999,
+    "discount": 8,
+    "rating": 4.2,
+    "stock": 18,
+    "description": "Intel i5 11th Gen, 16GB RAM, 512GB SSD",
+    "image": "https://example.com/hp.jpg"
+  }

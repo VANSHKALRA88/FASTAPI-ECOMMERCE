@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 14",
+    "brand": "Apple",
+    "category": "Smartphones",
+    "price": 79999,
+    "discount": 10,
+    "rating": 4.6,
+    "stock": 25,
+    "description": "6.1 inch display, A15 Bionic chip, 128GB storage",
+    "image": "https://example.com/iphone14.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S22",
+    "brand": "Samsung",
+    "category": "Smartphones",
+    "price": 69999,
+    "discount": 12,
+    "rating": 4.4,
+    "stock": 30,
+    "description": "Dynamic AMOLED display with Snapdragon processor",
+    "image": "https://example.com/s22.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Sony WH-1000XM4",
+    "brand": "Sony",
+    "category": "Headphones",
+    "price": 24999,
+    "discount": 15,
+    "rating": 4.7,
+    "stock": 50,
+    "description": "Noise cancelling wireless headphones",
+    "image": "https://example.com/sony.jpg"
+  },
+  {
+    "id": 4,
+    "name": "HP Pavilion 15",
+    "brand": "HP",
+    "category": "Laptops",
+    "price": 55999,
+    "discount": 8,
+    "rating": 4.2,
+    "stock": 18,
+    "description": "Intel i5 11th Gen, 16GB RAM, 512GB SSD",
+    "image": "https://example.com/hp.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Nike Air Max",
+    "brand": "Nike",
+    "category": "Shoes",
+    "price": 5999,
+    "discount": 20,
+    "rating": 4.3,
+    "stock": 100,
+    "description": "Comfortable running shoes",
+    "image": "https://example.com/nike.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Apple MacBook Air M2",
+    "brand": "Apple",
+    "category": "Laptops",
+    "price": 114999,
+    "discount": 5,
+    "rating": 4.8,
+    "stock": 12,
+    "description": "M2 Chip, 8GB RAM, 256GB SSD",
+    "image": "https://example.com/mac.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Boat Rockerz 450",
+    "brand": "Boat",
+    "category": "Headphones",
+    "price": 1499,
+    "discount": 25,
+    "rating": 4.0,
+    "stock": 70,
+    "description": "Wireless Bluetooth headphones",
+    "image": "https://example.com/boat.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Dell Inspiron 14",
+    "brand": "Dell",
+    "category": "Laptops",
+    "price": 48999,
+    "discount": 7,
+    "rating": 4.1,
+    "stock": 20,
+    "description": "Intel i3, 8GB RAM, 256GB SSD",
+    "image": "https://example.com/dell.jpg"
+  }
+]
