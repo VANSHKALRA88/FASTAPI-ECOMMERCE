@@ -62,7 +62,7 @@ def get_product_by_id(product_id:str=Path(...,min_length=1,max_length=36,descrip
         if product["id"]==product_id:
             return product
 
-    raise HTTPException(status_code=404,detail="Product not found")
+    raise HTTPException(status_code=404,detail="Product did not found")
 
 
 @app.post("/products",status_code=201)
